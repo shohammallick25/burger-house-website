@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="styles.css" />
     <title>Shoham Mallick || Burger House</title>
     <link rel="shortcut icon" href="./assets/l.png" type="image/png">
+    <link rel="manifest" href="manifest.json" />
+<meta name="theme-color" content="#ffcc00" />
+
   </head>
   <body>
     <header class="header">
@@ -191,5 +194,12 @@
 
     <script src="https://unpkg.com/scrollreveal"></script>
     <script src="main.js"></script>
+    <script>
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("service-worker.js")
+    .then(() => console.log("Service Worker Registered!"));
+}
+</script>
+
   </body>
 </html>
