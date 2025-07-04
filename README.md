@@ -1,6 +1,8 @@
 # Burger House 🍔
 
 **Landing page for Burger House — your destination for fresh, tasty, and handcrafted burgers.**
+![image](https://github.com/user-attachments/assets/7454401c-c281-4133-a556-2ac9b0cf5264)
+
 
 ---
 
