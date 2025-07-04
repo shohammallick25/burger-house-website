@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Preview
-👉 [Visit Burger House Website](https://your-username.github.io/burger-house/)  
+👉 [Visit Burger House Website](https://shohammallick25.github.io/burger-house-website/)  
 *(Replace `your-username` after setting up GitHub Pages)*
 
 ---
